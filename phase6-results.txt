@@ -1,0 +1,10 @@
+Showing 17 of 17 records matched
+
+33 records (13.3 kB) scanned in 3.9s @ 8 records/s (3.4 kB/s)
+
+
+Showing 3 of 3 records matched
+
+36 records (14.6 kB) scanned in 3.8s @ 9 records/s (3.8 kB/s)
+
+17 accessed the menu, 3 made a purchase
